@@ -1,4 +1,4 @@
-# Results of AmberTeam Exercises 
+# Results of AmberTeam & Selenium Exercises
 
 Selenium WebDriver == > Python
 
@@ -6,5 +6,7 @@ Selenium WebDriver == > Python
 2. Editbox
 3. Dropdown
 4. Radio buttons
+
+5. exchangeRate - getting information about actual exchange rate with export to csv & json files
 
 https://antycaptcha.amberteam.pl:5443/
